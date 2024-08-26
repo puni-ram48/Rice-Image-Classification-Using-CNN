@@ -1,6 +1,6 @@
 # 🌾 Rice Image Classification Using CNN
 
-<img src=".png" width="1000" height="466">
+<img src="readme_image.jpg" width="1000" height="466">
 
 ## Project Overview
 Artificial Intelligence (AI) is revolutionizing agriculture by automating tasks such as rice variety classification, which is crucial for quality and economic reasons, especially in regions like Turkey. This project employs a Convolutional Neural Network (CNN) to automate the classification of rice grains based on visual features like shape, color, and texture. By replacing labor-intensive and error-prone manual methods with a machine learning model, the project aims to enhance efficiency, accuracy, and reliability in rice production, demonstrating AI’s potential to transform traditional agricultural practices.
